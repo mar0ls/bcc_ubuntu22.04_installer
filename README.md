@@ -57,4 +57,4 @@ Follow the on-screen prompts and enter your root password when prompted.
 - The github site BCC project: [click here](https://github.com/iovisor/bcc)
 - The eBPF ducumentation: [click here](https://ebpf.io/)
 - 
-- **Note:** Ensure you have the correct root password and necessary permissions to install packages.
+**Note:** Ensure you have the correct root password and necessary permissions to install packages.
